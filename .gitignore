@@ -82,6 +82,9 @@ target/
 /data/external/
 /data/interim/
 
+#Exclude config file
+mysqldb_team.config
+
 # Mac OS-specific storage files
 .DS_Store
 
