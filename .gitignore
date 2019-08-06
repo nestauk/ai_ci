@@ -81,6 +81,7 @@ target/
 /data/raw/
 /data/external/
 /data/interim/
+/data/processed
 
 #Exclude config file
 mysqldb_team.config

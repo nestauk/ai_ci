@@ -3,6 +3,8 @@ ai_ci
 
 A repo with code for the creative industries analysis
 
+Go to the Notebooks for instructions and code on how to fetch the data
+
 Project Organization
 ------------
 
